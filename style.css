@@ -164,8 +164,9 @@ body {
 }
 
 .foot-middle {
+  width: 40%;
   display: flex;
-  gap: 40px;
+  justify-content: space-between;
 }
 
 .security-box:hover {
@@ -244,9 +245,5 @@ body {
     height: 100px;
     width: 100px;
     background-color: white;
-  }
-  .foot-middle {
-    display: flex;
-    gap: 10px;
   }
 }
