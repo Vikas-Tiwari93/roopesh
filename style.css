@@ -165,6 +165,7 @@ body {
 
 .foot-middle {
   width: 40%;
+  min-width: 300px;
   display: flex;
   justify-content: space-between;
 }
